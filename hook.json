@@ -1,0 +1,486 @@
+{
+  "dict": "ENHU",
+  "resultCount": 99,
+  "basic": [
+    {
+      "headword": "hook",
+      "variant": "",
+      "pronunciation_UK": "h\u028ak",
+      "POSs": [
+        {
+          "pos": "F\u0151n\u00e9v",
+          "ord": "1",
+          "sensegroups": [
+            {
+              "sensegrouptype": "",
+              "specheadword": "",
+              "NounCountableuncountable": "",
+              "VerbTransitive": "",
+              "VerbType": "",
+              "AdejctiveWherenoun": "",
+              "ord": "1",
+              "remark": "",
+              "senses": [
+                {
+                  "word": "horog",
+                  "example": "Excuse me miss, can you check and see if I have a hook in my lip?=Eln\u00e9z\u00e9st kisasszony, megn\u00e9zn\u00e9, hogy van-e horog a sz\u00e1mban?",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "1"
+                },
+                {
+                  "word": "kamp\u00f3",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "2"
+                }
+              ]
+            },
+            {
+              "sensegrouptype": "",
+              "specheadword": "",
+              "NounCountableuncountable": "",
+              "VerbTransitive": "",
+              "VerbType": "",
+              "AdejctiveWherenoun": "",
+              "ord": "2",
+              "remark": "",
+              "senses": [
+                {
+                  "word": "kapocs",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "1"
+                }
+              ]
+            },
+            {
+              "sensegrouptype": "",
+              "specheadword": "",
+              "NounCountableuncountable": "",
+              "VerbTransitive": "",
+              "VerbType": "",
+              "AdejctiveWherenoun": "",
+              "ord": "3",
+              "remark": "",
+              "senses": [
+                {
+                  "word": "csapda",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "1"
+                },
+                {
+                  "word": "figyelmet lek\u00f6t\u0151 dolog",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "2"
+                }
+              ]
+            },
+            {
+              "sensegrouptype": "",
+              "specheadword": "",
+              "NounCountableuncountable": "",
+              "VerbTransitive": "",
+              "VerbType": "",
+              "AdejctiveWherenoun": "",
+              "ord": "4",
+              "remark": "",
+              "senses": [
+                {
+                  "word": "sarl\u00f3",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "1"
+                }
+              ]
+            },
+            {
+              "sensegrouptype": "",
+              "specheadword": "",
+              "NounCountableuncountable": "",
+              "VerbTransitive": "",
+              "VerbType": "",
+              "AdejctiveWherenoun": "",
+              "ord": "5",
+              "remark": "",
+              "senses": [
+                {
+                  "word": "horog\u00fct\u00e9s",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "1"
+                }
+              ]
+            },
+            {
+              "sensegrouptype": "",
+              "specheadword": "",
+              "NounCountableuncountable": "",
+              "VerbTransitive": "",
+              "VerbType": "",
+              "AdejctiveWherenoun": "",
+              "ord": "6",
+              "remark": "",
+              "senses": [
+                {
+                  "word": "\u00e9les foly\u00f3kanyar",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "1"
+                }
+              ]
+            },
+            {
+              "sensegrouptype": "",
+              "specheadword": "",
+              "NounCountableuncountable": "",
+              "VerbTransitive": "",
+              "VerbType": "",
+              "AdejctiveWherenoun": "",
+              "ord": "7",
+              "remark": "",
+              "senses": [
+                {
+                  "word": "hal\u00e1szhorog",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "1"
+                }
+              ]
+            }
+          ],
+          "POSspec": "T\u00f6bbes sz\u00e1ma: hooks\\n"
+        },
+        {
+          "pos": "Ige",
+          "ord": "2",
+          "sensegroups": [
+            {
+              "sensegrouptype": "",
+              "specheadword": "",
+              "NounCountableuncountable": "",
+              "VerbTransitive": "",
+              "VerbType": "",
+              "AdejctiveWherenoun": "",
+              "ord": "1",
+              "remark": "",
+              "senses": [
+                {
+                  "word": "horoggal megfog",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "1"
+                }
+              ]
+            },
+            {
+              "sensegrouptype": "",
+              "specheadword": "",
+              "NounCountableuncountable": "",
+              "VerbTransitive": "",
+              "VerbType": "",
+              "AdejctiveWherenoun": "",
+              "ord": "2",
+              "remark": "",
+              "senses": [
+                {
+                  "word": "felakaszt",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "1"
+                },
+                {
+                  "word": "r\u00e1akaszt",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "2"
+                }
+              ]
+            },
+            {
+              "sensegrouptype": "",
+              "specheadword": "",
+              "NounCountableuncountable": "",
+              "VerbTransitive": "",
+              "VerbType": "",
+              "AdejctiveWherenoun": "",
+              "ord": "3",
+              "remark": "",
+              "senses": [
+                {
+                  "word": "beh\u00faz",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "1"
+                },
+                {
+                  "word": "horog\u00fct\u00e9st bevisz",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "2"
+                }
+              ]
+            },
+            {
+              "sensegrouptype": "",
+              "specheadword": "",
+              "NounCountableuncountable": "",
+              "VerbTransitive": "",
+              "VerbType": "",
+              "AdejctiveWherenoun": "",
+              "ord": "4",
+              "remark": "",
+              "senses": [
+                {
+                  "word": "megf\u00faj",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "1"
+                },
+                {
+                  "word": "ellop",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "2"
+                },
+                {
+                  "word": "becsap",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "3"
+                }
+              ]
+            },
+            {
+              "sensegrouptype": "",
+              "specheadword": "hook up",
+              "NounCountableuncountable": "",
+              "VerbTransitive": "",
+              "VerbType": "",
+              "AdejctiveWherenoun": "",
+              "ord": "5",
+              "remark": "",
+              "senses": [
+                {
+                  "word": "bekapcsol\u00f3dik",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "1"
+                },
+                {
+                  "word": "r\u00e1csatlakozik",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "2"
+                }
+              ]
+            },
+            {
+              "sensegrouptype": "",
+              "specheadword": "hook up with somebody",
+              "NounCountableuncountable": "",
+              "VerbTransitive": "",
+              "VerbType": "",
+              "AdejctiveWherenoun": "",
+              "ord": "6",
+              "remark": "",
+              "senses": [
+                {
+                  "word": "\u00f6sszeh\u00e1zasodik valakivel",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "1"
+                }
+              ]
+            }
+          ],
+          "POSspec": "Ragoz\u00e1s: to hook, hooked, hooked\\nInges alak: hooking\\nE/3: hooks\\n"
+        }
+      ]
+    }
+  ],
+  "extended": [
+    { "headword": "hook and eye", "senses": ["kapocs"] },
+    { "headword": "to hook in", "senses": ["lovakat befog"] },
+    {
+      "headword": "to hook up",
+      "senses": [
+        "bekapcsol (ruh\u00e1t)",
+        "bek\u00f6t (telefont)",
+        "felakaszt",
+        "r\u00e1akaszt"
+      ]
+    },
+    {
+      "headword": "swivel hook",
+      "senses": ["forg\u00f3 kapcsol\u00f3horog", "forg\u00f3horog"]
+    },
+    { "headword": "tackle hook", "senses": ["emel\u0151horog"] },
+    { "headword": "crochet hook", "senses": ["horgol\u00f3t\u0171"] },
+    {
+      "headword": "halyard hook",
+      "senses": ["felh\u00faz\u00f3 k\u00f6t\u00e9l beakaszt\u00f3ja"]
+    },
+    {
+      "headword": "to hook on sy",
+      "senses": ["belekarol vkibe", "csatlakozik vkihez"]
+    },
+    { "headword": "to hook sy in", "senses": ["befog vkit munk\u00e1ra"] },
+    { "headword": "to hook in a horse", "senses": ["lovakat befog"] },
+    { "headword": "hooky", "senses": ["horgas", "l\u00f3g\u00f3s"] },
+    { "headword": "hookah", "senses": ["v\u00edzipipa"] },
+    {
+      "headword": "hooked",
+      "senses": [
+        "g\u00f6rbe",
+        "hajlott",
+        "horgos",
+        "horog alak\u00fa",
+        "horoggal ell\u00e1tott",
+        "kamp\u00f3 alak\u00fa",
+        "kamp\u00f3s",
+        "kamp\u00f3val ell\u00e1tott"
+      ]
+    },
+    {
+      "headword": "hooker",
+      "senses": [
+        "balra elt\u00e9r\u0151 \u00fct\u00e9s",
+        "csat\u00e1r",
+        "hollandi kisebb fajta vitorl\u00e1s haj\u00f3",
+        "kocsicsatol\u00f3",
+        "kocsicsatol\u00f3 munk\u00e1s",
+        "prosti",
+        "prostitu\u00e1lt",
+        "\u00e9jszakai pillang\u00f3",
+        "\u00edr kisebb fajta vitorl\u00e1s haj\u00f3"
+      ]
+    },
+    {
+      "headword": "hookey",
+      "senses": ["US biz. vesz\u00e9lyeztet, elfecs\u00e9rel vmt"]
+    },
+    { "headword": "hookum", "senses": ["utas\u00edt\u00e1s", "parancs"] },
+    {
+      "headword": "hookup",
+      "senses": ["kapcsolat", "kapcsolatl\u00e9tes\u00edt\u00e9s"]
+    },
+    {
+      "headword": "hook-up",
+      "senses": [
+        "kapcsolat",
+        "kapcsolatl\u00e9tes\u00edt\u00e9s",
+        "r\u00e1di\u00f3-kapcsol\u00e1si \u00e1bra",
+        "r\u00e1di\u00f3ad\u00f3k h\u00e1l\u00f3zata",
+        "sz\u00f6vetkezet",
+        "sz\u00f6vets\u00e9g",
+        "\u00f6sszek\u00f6ttet\u00e9s",
+        "\u00f6sszek\u00f6ttet\u00e9s l\u00e9tes\u00edt\u00e9se"
+      ]
+    },
+    { "headword": "hooking", "senses": ["bottal akaszt\u00e1s"] },
+    {
+      "headword": "hookworm",
+      "senses": [
+        "Ancylostoma duodenale",
+        "egyiptomi s\u00e1padts\u00e1g",
+        "horogf\u00e9reg"
+      ]
+    },
+    {
+      "headword": "hooked rug",
+      "senses": ["egyszer\u0171 csom\u00f3z\u00e1s\u00fa sz\u0151nyeg"]
+    },
+    {
+      "headword": "hooker-ladder",
+      "senses": ["kamp\u00f3s t\u0171zolt\u00f3l\u00e9tra"]
+    },
+    {
+      "headword": "shook",
+      "senses": [
+        "kir\u00e1z",
+        "megremegtet",
+        "megrend\u00edt",
+        "megr\u00e1z",
+        "megr\u00e1zk\u00f3dtat",
+        "remeg",
+        "remegtet",
+        "reng",
+        "reszket",
+        "rezeg",
+        "r\u00e1z",
+        "r\u00e1zk\u00f3dtat",
+        "r\u00e1zott",
+        "trill\u00e1zik",
+        "t\u00e1ntorog"
+      ]
+    },
+    {
+      "headword": "canhook",
+      "senses": ["kamp\u00f3val ell\u00e1tott k\u00f6t\u00e9l"]
+    },
+    { "headword": "mudhook", "senses": ["horgony"] },
+    {
+      "headword": "pinhook",
+      "senses": ["t\u0171b\u0151l hajl\u00edtott hal\u00e1szhorog"]
+    },
+    {
+      "headword": "skyhook",
+      "senses": [
+        "kozmikus sugarak vizsg\u00e1lat\u00e1hoz",
+        "k\u00f6rte alak\u00fa kutat\u00f3l\u00e9gg\u00f6mb",
+        "m\u0171szerballon"
+      ]
+    },
+    { "headword": "drawhook", "senses": ["von\u00f3horog"] },
+    {
+      "headword": "tailhook",
+      "senses": ["elfog\u00f3horog", "fog\u00f3horog"]
+    },
+    {
+      "headword": "unhooker",
+      "senses": ["kiakaszt\u00f3, kikapcsol\u00f3 k\u00e9sz\u00fcl\u00e9k"]
+    }
+  ]
+}
