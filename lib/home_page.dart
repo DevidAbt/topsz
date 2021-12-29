@@ -1,7 +1,6 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
 import 'package:flutter_typeahead/flutter_typeahead.dart';
 import 'package:topsz/models/SearchResult.dart';
 import 'package:topsz/service.dart';
@@ -18,10 +17,14 @@ class _HomeScreenState extends State<HomeScreen> {
 
   SearchResult? _searchResult;
 
-  String _dictOption = "🇬🇧 ⇉ 🇭🇺";
-  List<String> _dictOptions = ["🇬🇧 ⇉ 🇭🇺", "🇭🇺 ⇉ 🇬🇧"];
-  String _dict = "ENHU";
-  List<String> _dicts = ["ENHU", "HUEN"];
+  int _dictIndex = 0;
+  List<String> _dictOptions = [
+    "🇬🇧 ⇉ 🇭🇺",
+    "🇭🇺 ⇉ 🇬🇧",
+    "🇩🇪 ⇉ 🇭🇺",
+    "🇭🇺 ⇉ 🇩🇪"
+  ];
+  List<String> _dicts = ["ENHU", "HUEN", "DEHU", "HUDE"];
 
   bool _searched = false;
   bool _offline = false;
@@ -30,7 +33,7 @@ class _HomeScreenState extends State<HomeScreen> {
     try {
       _typeAheadController.text = word;
       SearchResult? searchResult = await getResults(
-          "EN", _dicts[_dictOptions.indexOf(_dictOption)], word);
+          _dictIndex <= 1 ? "EN" : "DE", _dicts[_dictIndex], word);
       setState(() {
         _searchResult = searchResult;
         _searched = true;
@@ -49,7 +52,8 @@ class _HomeScreenState extends State<HomeScreen> {
   Future<List<String>> _getAutocomplete(String pattern) async {
     List<String> suggestions;
     try {
-      suggestions = await getAutocomplete("EN", _dict, pattern);
+      suggestions = await getAutocomplete(
+          _dictIndex <= 1 ? "EN" : "DE", _dicts[_dictIndex], pattern);
       setState(() {
         _offline = false;
       });
@@ -209,12 +213,12 @@ class _HomeScreenState extends State<HomeScreen> {
             style: TextStyle(fontSize: 35),
             onChanged: (String? changedValue) {
               setState(() {
-                _dictOption = changedValue!;
-                _dict = _dicts[_dictOptions.indexOf(_dictOption)];
+                _dictIndex = _dictOptions.indexOf(changedValue!);
+                // _dict = _dicts[_dictOptions.indexOf(_dictOption)];
                 _clear();
               });
             },
-            value: _dictOption,
+            value: _dictOptions[_dictIndex],
             items: _dictOptions
                 .map((value) =>
                     DropdownMenuItem(value: value, child: Text(value)))
