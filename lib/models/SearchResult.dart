@@ -144,8 +144,13 @@ class Extended {
   });
 
   factory Extended.fromJson(Map<String, dynamic> json) {
-    return Extended(
-        headword: json['headword'],
-        senses: (json['senses'] as List).cast<String>());
+    List<String> senses;
+    if (json.containsKey("senses")) {
+      senses = (json['senses'] as List).cast<String>();
+    } else {
+      senses = (json['POSs']["1"]["sensegroups"]["1"]["senses"]["1"] as String)
+          .split(";");
+    }
+    return Extended(headword: json['headword'], senses: senses);
   }
 }
