@@ -1,0 +1,284 @@
+{
+  "dict": "DEHU",
+  "resultCount": 25,
+  "basic": [
+    {
+      "headword": "Katze",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": [
+        {
+          "pos": "Noun",
+          "spec": "die",
+          "plural": "",
+          "remark": "",
+          "ord": "1",
+          "sensegroups": [
+            {
+              "sensegrouptype": "",
+              "specheadword": "",
+              "ord": "1",
+              "remark": "",
+              "senses": [
+                {
+                  "word": "macska",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "1"
+                },
+                {
+                  "word": "p\u00e9nzeszacsk?3",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "2"
+                },
+                {
+                  "word": "cica",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "3"
+                }
+              ]
+            },
+            {
+              "sensegrouptype": "",
+              "specheadword": "alles fur die Katze",
+              "ord": "2",
+              "remark": "",
+              "senses": [
+                {
+                  "word": "minden hiaba van",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extended": [
+    {
+      "headword": "alles fur die Katze",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": {
+          "sensegroups": { "1": { "senses": { "1": "minden hiaba van;" } } }
+        }
+      }
+    },
+    {
+      "headword": "Katzelmacher",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": { "sensegroups": { "1": { "senses": { "1": "olasz;" } } } }
+      }
+    },
+    {
+      "headword": "Katzemacher",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": { "sensegroups": { "1": { "senses": { "1": "olasz;" } } } }
+      }
+    },
+    {
+      "headword": "katzenartig",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": {
+          "sensegroups": {
+            "1": {
+              "senses": {
+                "1": "macska-;macskaf\u00e9le;macskaszer\u0171;macskaterm\u00e9szet\u0171;"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "headword": "Katzenauge",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": { "sensegroups": { "1": { "senses": { "1": "macskaszem;" } } } }
+      }
+    },
+    {
+      "headword": "einen Katzenbuckel machen",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": {
+          "sensegroups": {
+            "1": { "senses": { "1": "(macska)felgorb\u00edti a hatat;" } }
+          }
+        }
+      }
+    },
+    {
+      "headword": "Katzenbuckel",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": {
+          "sensegroups": {
+            "1": { "senses": { "1": "macskahat;gorbe, hajlott hat;" } }
+          }
+        }
+      }
+    },
+    {
+      "headword": "g?any. Katzenbuckel machen",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": { "sensegroups": { "1": { "senses": { "1": "hajlongani;" } } } }
+      }
+    },
+    {
+      "headword": "einen Katzenbuckel machen",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": {
+          "sensegroups": {
+            "1": { "senses": { "1": "(macska)felgorb\u00edti a hatat;" } }
+          }
+        }
+      }
+    },
+    {
+      "headword": "g?any. Katzenbuckel machen",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": { "sensegroups": { "1": { "senses": { "1": "hajlongani;" } } } }
+      }
+    },
+    {
+      "headword": "Katzendreck",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": { "sensegroups": { "1": { "senses": { "1": "macskaszar;" } } } }
+      }
+    },
+    {
+      "headword": "Katzenfell",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": { "sensegroups": { "1": { "senses": { "1": "macskabor;" } } } }
+      }
+    },
+    {
+      "headword": "Katzenfisch",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": { "sensegroups": { "1": { "senses": { "1": "harcsa;" } } } }
+      }
+    },
+    {
+      "headword": "Katzenfreund",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": { "sensegroups": { "1": { "senses": { "1": "macskabarat;" } } } }
+      }
+    },
+    {
+      "headword": "Katzenfreundin",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": {
+          "sensegroups": { "1": { "senses": { "1": "macskabarat (no);" } } }
+        }
+      }
+    },
+    {
+      "headword": "katzenfreundlich",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": {
+          "sensegroups": {
+            "1": {
+              "senses": {
+                "1": "macskakedvelo;macskanak elonyos;macskat kedvelo;"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "headword": "Katzenfutter",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": { "sensegroups": { "1": { "senses": { "1": "macskaeledel;" } } } }
+      }
+    },
+    {
+      "headword": "katzengleich",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": {
+          "sensegroups": { "1": { "senses": { "1": "macskaszer\u0171;" } } }
+        }
+      }
+    },
+    {
+      "headword": "Katzengold",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": {
+          "sensegroups": {
+            "1": {
+              "senses": { "1": "fan;macskam\u00e9z;(asv.) sarga csillam;" }
+            }
+          }
+        }
+      }
+    },
+    {
+      "headword": "katzenhaft",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": { "sensegroups": { "1": { "senses": { "1": "ravasz;" } } } }
+      }
+    },
+    {
+      "headword": "Katzenhaftigkeit",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": {
+          "sensegroups": {
+            "1": { "senses": { "1": "macskaszer\u0171s\u00e9g;" } }
+          }
+        }
+      }
+    }
+  ]
+}

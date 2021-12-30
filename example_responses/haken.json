@@ -1,0 +1,274 @@
+{
+  "dict": "DEHU",
+  "resultCount": 22,
+  "basic": [
+    {
+      "headword": "haken",
+      "pronunciation": "",
+      "status": "Publikált",
+      "POSs": [
+        {
+          "pos": "Verb",
+          "spec": "",
+          "plural": "",
+          "remark": "",
+          "ord": "1",
+          "sensegroups": [
+            {
+              "sensegrouptype": "",
+              "specheadword": "",
+              "ord": "1",
+              "remark": "",
+              "senses": [
+                {
+                  "word": "ráakaszt valamit valamire",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "1"
+                },
+                {
+                  "word": "akaszt",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "2"
+                },
+                {
+                  "word": "megakaszt valakit",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "3"
+                },
+                {
+                  "word": "akaszt valakit",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "4"
+                },
+                {
+                  "word": "felakaszt",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "5"
+                }
+              ]
+            },
+            {
+              "sensegrouptype": "",
+              "specheadword": "",
+              "ord": "2",
+              "remark": "",
+              "senses": [
+                {
+                  "word": "visszahúz",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Haken",
+      "pronunciation": "",
+      "status": "Publikált",
+      "POSs": [
+        {
+          "pos": "Noun",
+          "spec": "der",
+          "plural": "",
+          "remark": "",
+          "ord": "1",
+          "sensegroups": [
+            {
+              "sensegrouptype": "",
+              "specheadword": "",
+              "ord": "1",
+              "remark": "",
+              "senses": [
+                {
+                  "word": "horog",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "1"
+                },
+                {
+                  "word": "kapocs",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "2"
+                }
+              ]
+            },
+            {
+              "sensegrouptype": "",
+              "specheadword": "",
+              "ord": "2",
+              "remark": "",
+              "senses": [
+                {
+                  "word": "kampó",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "1"
+                },
+                {
+                  "word": "akasztó",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "2"
+                }
+              ]
+            },
+            {
+              "sensegrouptype": "",
+              "specheadword": "",
+              "ord": "3",
+              "remark": "",
+              "senses": [
+                {
+                  "word": "akadály",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extended": [
+    {
+      "headword": "X-Haken",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": { "sensegroups": { "1": { "senses": { "1": "képhorog;" } } } }
+      }
+    },
+    {
+      "headword": "Hakenbüchse",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": {
+          "sensegroups": {
+            "1": { "senses": { "1": "(tört) szakállas puska;" } }
+          }
+        }
+      }
+    },
+    {
+      "headword": "hakenförmig",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": { "sensegroups": { "1": { "senses": { "1": "horogalakú;" } } } }
+      }
+    },
+    {
+      "headword": "Hakenkette",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": { "sensegroups": { "1": { "senses": { "1": "horoglánc;" } } } }
+      }
+    },
+    {
+      "headword": "Hakenkreuz",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": {
+          "sensegroups": {
+            "1": { "senses": { "1": "horogkereszt;szvasztika;" } }
+          }
+        }
+      }
+    },
+    {
+      "headword": "Hakennase",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": {
+          "sensegroups": { "1": { "senses": { "1": "kampós, horgas orr;" } } }
+        }
+      }
+    },
+    {
+      "headword": "Hakenpflug",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": { "sensegroups": { "1": { "senses": { "1": "(mzg.) faeke;" } } } }
+      }
+    },
+    {
+      "headword": "Hakenschlüssel",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": { "sensegroups": { "1": { "senses": { "1": "horogkulcs;" } } } }
+      }
+    },
+    {
+      "headword": "Hakenschraube",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": { "sensegroups": { "1": { "senses": { "1": "horogcsavar;" } } } }
+      }
+    },
+    {
+      "headword": "Hakenwurm",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": { "sensegroups": { "1": { "senses": { "1": "horoghernyó;" } } } }
+      }
+    },
+    {
+      "headword": "Hakenwürmer",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": {
+          "sensegroups": {
+            "1": {
+              "senses": {
+                "1": "Ancylostoma Ancylostoma duodenale;horogférgek;"
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}

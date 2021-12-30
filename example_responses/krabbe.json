@@ -1,0 +1,144 @@
+{
+  "dict": "DEHU",
+  "resultCount": 11,
+  "basic": [
+    {
+      "headword": "Krabbe",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": [
+        {
+          "pos": "Noun",
+          "spec": "die",
+          "plural": "",
+          "remark": "",
+          "ord": "1",
+          "sensegroups": [
+            {
+              "sensegrouptype": "",
+              "specheadword": "",
+              "ord": "1",
+              "remark": "",
+              "senses": [
+                {
+                  "word": "rák",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "1"
+                },
+                {
+                  "word": "kővirág",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "2"
+                },
+                {
+                  "word": "garnélarák",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "3"
+                },
+                {
+                  "word": "apró tengeri rák",
+                  "example": "",
+                  "style_labels": "",
+                  "subject_labels": "",
+                  "regional_labels": "",
+                  "ord": "4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extended": [
+    {
+      "headword": "Krabbelalter",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": {
+          "sensegroups": {
+            "1": { "senses": { "1": "mászó kor (kisgyerekkor);" } }
+          }
+        }
+      }
+    },
+    {
+      "headword": "Krabbelei",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": {
+          "sensegroups": {
+            "1": {
+              "senses": { "1": "civakodás;perpatvar;mászkálás;összevisszaság;" }
+            }
+          }
+        }
+      }
+    },
+    {
+      "headword": "Krabbelkind",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": { "sensegroups": { "1": { "senses": { "1": "mászó gyerek;" } } } }
+      }
+    },
+    {
+      "headword": "krabbeln",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": {
+          "sensegroups": {
+            "1": {
+              "senses": {
+                "1": "csiklandoz;vakargat;négykézláb mászik;csúszik-mászik;mászik;"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "headword": "krabbelt",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": {
+          "sensegroups": { "1": { "senses": { "1": "csúszik-mászik;" } } }
+        }
+      }
+    },
+    {
+      "headword": "Krabben",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": {
+          "sensegroups": {
+            "1": { "senses": { "1": "apró tengeri rák;garnélarák;" } }
+          }
+        }
+      }
+    },
+    {
+      "headword": "Krabbenmayonnaise",
+      "pronunciation": "",
+      "status": "ante",
+      "POSs": {
+        "1": { "sensegroups": { "1": { "senses": { "1": "rákmajonéz;" } } } }
+      }
+    }
+  ]
+}
